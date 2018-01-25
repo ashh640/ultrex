@@ -1,0 +1,13 @@
+{
+  "name": "ultrex",
+  "version": "0.1.0",
+  "description": "Immutable state management made easy",
+  "main": "dist/index.js",
+  "author": "Ashley Hunter",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "typescript": "^2.6.2"
+  },
+  "typings": "./dist/index.d.ts"
+}
